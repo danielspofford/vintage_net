@@ -194,7 +194,7 @@ follows:
 
 ```elixir
 config :vintage_net,
-  persistence: VintageNet.Persistence.Null
+  persistence: false
 ```
 
 ## Debugging
